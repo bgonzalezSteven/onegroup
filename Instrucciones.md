@@ -40,6 +40,23 @@ export default {
 }
 //Este codigo nos permitirá conectarnos a nuestra api
 
+Dentro de Api creamos un archivo .env y pegamos:
+
+HOST=127.0.0.1
+PORT=3333
+NODE_ENV=development
+APP_NAME=AdonisJs
+APP_URL=http://${HOST}:${PORT}
+CACHE_VIEWS=false
+APP_KEY=trl1Hu2Jg7gfu8057BkNVHXQWjSkY0El
+DB_CONNECTION=mongodb
+DB_HOST=127.0.0.1
+DB_PORT=27017
+DB_USER=
+DB_PASSWORD=
+DB_DATABASE=one
+HASH_DRIVER=bcrypt
+//Codigo que conectara nuestra api a la bd
 
 Seguidamente:
 
