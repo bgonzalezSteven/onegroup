@@ -1,8 +1,8 @@
 {
-  "name": "iunav",
+  "name": "one",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "IUNAV",
+  "productName": "OneGroup",
   "author": "",
   "private": true,
   "scripts": {
