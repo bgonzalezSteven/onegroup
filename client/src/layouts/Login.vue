@@ -4,7 +4,7 @@
     <q-page class="row">
     <q-parallax class="fullscreen" style="height: auto;">
           <template v-slot:media>
-            <img src="../assets/fondoo.jpg" >
+            <img src="https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" >
           </template>
 
           <template v-slot:content="scope">
